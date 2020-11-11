@@ -20,6 +20,7 @@
 		E1837E1A255C5F0C000ECB81 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E1837E1D255C5F0C000ECB81 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E1837E1F255C5F0C000ECB81 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E1837E26255C5FAB000ECB81 /* UUIDDemo.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = UUIDDemo.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +53,7 @@
 		E1837E15255C5F09000ECB81 /* UUIDDemo */ = {
 			isa = PBXGroup;
 			children = (
+				E1837E26255C5FAB000ECB81 /* UUIDDemo.playground */,
 				E1837E16255C5F09000ECB81 /* UUIDDemoApp.swift */,
 				E1837E18255C5F09000ECB81 /* ContentView.swift */,
 				E1837E1A255C5F0C000ECB81 /* Assets.xcassets */,
